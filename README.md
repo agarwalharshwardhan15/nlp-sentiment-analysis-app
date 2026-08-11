@@ -50,6 +50,8 @@ Train a custom ML classifier (Logistic Regression / Naive Bayes) on a labeled da
 Upgrade to a transformer-based model (e.g., BERT) for more nuanced sentiment detection
 Add support for batch analysis via CSV upload
 Deploy the app publicly using Streamlit Community Cloud
+
+
 Author
 
 Harshwardhan Agarwal
